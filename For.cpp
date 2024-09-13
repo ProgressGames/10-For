@@ -12,3 +12,4 @@ int main() {
 
 
 }
+//Если вам что то не понятно, пишите в issues | If you don't understand something, write to issues 
